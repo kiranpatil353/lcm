@@ -1,7 +1,7 @@
 <?php
 	/*
   Plugin Name: Location Click Map
-  Description: Multiple Location Map and filter plugin is useful to display maps on your website posts and pages using shortcode [location_map], With fully customized icons and settings.
+  Description: Location Click Map plugin is useful to display marker on clicking of location, use shortcode [location_map].
   Version: 1.0
 
  */

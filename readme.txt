@@ -6,9 +6,9 @@ Requires at least: 3.0.1
 Tested up to: 4.5.2
 Stable tag: 1.0
 License: GPLv2 or later
-Location Click Map plugin is useful to display maps on your website posts and pages using shortcode [location_map], With fully customized icons and settings.
+Location Click Map plugin is useful to display marker on clicking of location, use shortcode [location_map].
 == Description ==
-Multiple Location Map and filter plugin is useful to display maps on your website posts and pages using shortcode ['hide_locations'], With fully customized icons and settings. Users can hide filter dropdown using [location_map hide_locations=1].
+Location Click Map plugin is useful to display marker on clicking of location, use shortcode [location_map]., With fully customized icons and settings. Users can hide filter dropdown using [location_map hide_locations=1].
 
 
 = A Few Feature Highlights =
